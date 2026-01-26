@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I’m Gigi 👋
 
-<!--
-**Gigi23-Basilashvili/Gigi23-Basilashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Backend Developer | TypeScript, NestJS, MySQL  
+Focused on building REST APIs and learning clean, modular backend architecture.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Task Manager API
+- Completed RESTful API using **NestJS, TypeScript, TypeORM**  
+- Implemented authentication and role-based access for tasks and projects  
+- Fully functional project with database integration  
+- **GitHub:** [Task Manager API](https://github.com/Gigi23-Basilashvili/task-manager-api-nestjs)
+
+### Midas (Learning Project)
+- Experimented with backend Java project for managing transactions  
+- Practiced structuring code, testing, and connecting with a database  
+- **GitHub:** [Midas](https://github.com/Gigi23-Basilashvili/Midas)
+
+---
+
+## Skills
+- TypeScript / NestJS  
+- REST API Design  
+- MySQL / TypeORM  
+- Git & GitHub  
+- Understanding of modular backend structure
+
+---
+
+## Contact
+- GitHub: [https://github.com/Gigi23-Basilashvili](https://github.com/Gigi23-Basilashvili)  
+- Email: gigibasilashvili23@gmail.com
+
