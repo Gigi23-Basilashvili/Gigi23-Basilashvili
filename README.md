@@ -8,11 +8,11 @@ I build backend systems with a focus on clean architecture, authentication, and 
 
 - **Task Manager API (NestJS)**  
   Secure backend with JWT authentication, role-based permissions, and relational data modeling. Handles full CRUD operations for tasks grouped under projects.  
-  🔗 [Repo link](https://github.com/Gigi23-Basilashvili/task-manager-api)
+  🔗 [Repo link](https://github.com/Gigi23-Basilashvili/task-manager-api-nestjs)
 
 - **MIDAS – Distributed Financial Ledger (Spring Boot/Kafka)**  
   Event-driven backend that validates financial transactions and communicates with an external incentive service. Built as part of a structured virtual internship program.  
-  🔗 [Repo link](https://github.com/Gigi23-Basilashvili/midas-core)
+  🔗 [Repo link](https://github.com/Gigi23-Basilashvili/Midas)
 
 📄 **CV**  
 🔗 [Download CV](https://drive.google.com/file/d/1Vur9FVfVRh5mibpJn0VAu0rO1WMeOXqI/view?usp=sharing)
@@ -23,6 +23,7 @@ I build backend systems with a focus on clean architecture, authentication, and 
 ---
 
 **Tip for recruiters:** Click a project to see detailed implementation, architecture, and challenges solved.
+
 
 
 
