@@ -15,7 +15,7 @@ I build backend systems with a focus on clean architecture, authentication, and 
   🔗 [Repo link](https://github.com/Gigi23-Basilashvili/Midas)
 
 📄 **CV**  
-🔗 [Download CV](https://drive.google.com/file/d/1Vur9FVfVRh5mibpJn0VAu0rO1WMeOXqI/view?usp=sharing)
+🔗 [Download CV](https://drive.google.com/file/d/1fm0mpoh48480gOwLG8loc-cARd6DShZU/view?usp=sharing)
 
 📜 **Certificate**  
 🔗 [View Certificate](https://drive.google.com/file/d/1rB35WbNcA4Jrpjfvm-PYy8DBLg4tpg8Q/view?usp=drive_link)
